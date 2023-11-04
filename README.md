@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently  learning C++<br>🌱 I’m currently studying Computer Science at Curtin University<br>💬 I love creating apps using Jetpack Compose<br>🐶Dogs are the best 
+🔭 I’m currently  learning C#<br>🌱 I’m currently studying Computer Science at Curtin University<br>💬 I love creating apps using Jetpack Compose<br>🐶Dogs are the best 
 
 
 ## 🌐 Socials:
