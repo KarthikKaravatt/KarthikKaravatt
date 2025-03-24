@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently  learning C#<br>🌱 I’m currently studying Computer Science at Curtin University<br>💬 I love creating apps using Jetpack Compose<br>🐶Dogs are the best 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-karavatt-098261257) 
